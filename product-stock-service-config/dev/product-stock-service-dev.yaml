@@ -24,5 +24,5 @@ management:
         include: refresh
 
 my-values:
-  name: MENTOS NEW INFO
-  description: Драже жевательное
+  name: MENTOS*
+  description: Драже жевательное 12415
